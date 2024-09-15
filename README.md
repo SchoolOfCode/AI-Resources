@@ -108,7 +108,7 @@ Welcome to your journey into the fascinating world of Artificial Intelligence an
 - [Google’s Prompting for Gemini](https://ai.google.dev/gemini-api/docs/prompting-intro): Vendor-specific guide.
 
 **Cheat Sheet**  
-![Cheat Sheet](https://prod-files-secure.s3.us-west-2.amazonaws.com/c45449f8-daa0-4347-8d77-9b936f466c2c/7b3218e7-2189-420c-b283-b4946aeb0978/download.jpeg)
+[Cheat Sheet](https://big-picture.com/media/the_prompt_engineering_cheat_sheet.pdf)
 
 ## Data Science and Visualization
 
